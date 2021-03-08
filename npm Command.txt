@@ -13,3 +13,23 @@ npm install @babel/plugin-proposal-class-properties
 npm install react-router-dom
 
 npm install @material-ui/icons
+
+--------------------------------
+
+run django On Terminal:
+
+python manage.py runserver
+
+--------------------------------
+
+run react On Terminal
+
+npm run dev
+
+--------------------------------
+
+Build React On Terminal
+
+npm run build
+
+--------------------------------
